@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262062882356",
+    "project_id": "serious-courage-376414",
+    "storage_bucket": "serious-courage-376414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262062882356:android:fc6d34e3fa997ef55bd461",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_flutter_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__L5A_rL-AdtA5qTB4m5B_CtXIwvxw5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
